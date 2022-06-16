@@ -1,5 +1,5 @@
 # Virtual-Drag-and-Drop
-Extra Project- Virtual Drag and Drop - Able to drag and drop by using OpenCV and cvzone, along with hand tracking module to make this possible.
+Extra Project - Virtual Drag and Drop - Able to drag and drop by using OpenCV and cvzone, along with hand tracking module to make this possible.
 
 Original Project: https://www.youtube.com/watch?v=6DxN8G9vB50
 
